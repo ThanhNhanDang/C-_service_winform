@@ -1,0 +1,692 @@
+﻿Installing assembly 'D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.InstallLog
+   assemblypath = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe
+Installing service Service_RFID_BIG_READER...
+Creating EventLog source Service_RFID_BIG_READER in log Application...
+Rolling back assembly 'D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.InstallLog
+   assemblypath = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe
+Restoring event log to previous state for source Service_RFID_BIG_READER.
+Uninstalling assembly 'D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.InstallLog
+   assemblypath = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe
+Removing EventLog source Service_RFID_BIG_READER.
+Service Service_RFID_BIG_READER is being removed from the system...
+Service Service_RFID_BIG_READER was successfully removed from the system.
+Installing assembly 'D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.InstallLog
+   assemblypath = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe
+Installing service Service_RFID_BIG_READER...
+Service Service_RFID_BIG_READER has been successfully installed.
+Creating EventLog source Service_RFID_BIG_READER in log Application...
+Committing assembly 'D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.InstallLog
+   assemblypath = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe
+Uninstalling assembly 'D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.InstallLog
+   assemblypath = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe
+Removing EventLog source Service_RFID_BIG_READER.
+Service Service_RFID_BIG_READER is being removed from the system...
+Service Service_RFID_BIG_READER was successfully removed from the system.
+Installing assembly 'D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.InstallLog
+   assemblypath = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe
+Installing service Service_RFID_BIG_READER...
+Service Service_RFID_BIG_READER has been successfully installed.
+Creating EventLog source Service_RFID_BIG_READER in log Application...
+Committing assembly 'D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.InstallLog
+   assemblypath = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe
+Uninstalling assembly 'D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.InstallLog
+   assemblypath = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe
+Removing EventLog source Service_RFID_BIG_READER.
+Service Service_RFID_BIG_READER is being removed from the system...
+Service Service_RFID_BIG_READER was successfully removed from the system.
+Installing assembly 'D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.InstallLog
+   assemblypath = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe
+Installing service Service_RFID_BIG_READER...
+Service Service_RFID_BIG_READER has been successfully installed.
+Creating EventLog source Service_RFID_BIG_READER in log Application...
+Committing assembly 'D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.InstallLog
+   assemblypath = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe
+Uninstalling assembly 'D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.InstallLog
+   assemblypath = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe
+Removing EventLog source Service_RFID_BIG_READER.
+Service Service_RFID_BIG_READER is being removed from the system...
+Service Service_RFID_BIG_READER was successfully removed from the system.
+Attempt to stop service Service_RFID_BIG_READER.
+Installing assembly 'D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.InstallLog
+   assemblypath = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe
+Installing service Service_RFID_BIG_READER...
+Service Service_RFID_BIG_READER has been successfully installed.
+Creating EventLog source Service_RFID_BIG_READER in log Application...
+Committing assembly 'D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.InstallLog
+   assemblypath = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe
+Uninstalling assembly 'D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.InstallLog
+   assemblypath = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe
+Removing EventLog source Service_RFID_BIG_READER.
+Service Service_RFID_BIG_READER is being removed from the system...
+Service Service_RFID_BIG_READER was successfully removed from the system.
+Installing assembly 'D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.InstallLog
+   assemblypath = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe
+Installing service Service_RFID_BIG_READER...
+Service Service_RFID_BIG_READER has been successfully installed.
+Creating EventLog source Service_RFID_BIG_READER in log Application...
+Committing assembly 'D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.InstallLog
+   assemblypath = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe
+Uninstalling assembly 'D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.InstallLog
+   assemblypath = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe
+Removing EventLog source A_RFID_BIG_READER_IN.
+Warning: The source A_RFID_BIG_READER_IN is not registered on the local machine.
+Service A_RFID_BIG_READER_IN is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.InstallLog
+   assemblypath = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe
+Installing service A_RFID_BIG_READER_IN...
+Service A_RFID_BIG_READER_IN has been successfully installed.
+Creating EventLog source A_RFID_BIG_READER_IN in log Application...
+Committing assembly 'D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.InstallLog
+   assemblypath = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe
+Uninstalling assembly 'D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.InstallLog
+   assemblypath = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe
+Removing EventLog source A_RFID_BIG_READER_IN.
+Service A_RFID_BIG_READER_IN is being removed from the system...
+Service A_RFID_BIG_READER_IN was successfully removed from the system.
+Installing assembly 'D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.InstallLog
+   assemblypath = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe
+Installing service A_RFID_BIG_READER_IN...
+Service A_RFID_BIG_READER_IN has been successfully installed.
+Creating EventLog source A_RFID_BIG_READER_IN in log Application...
+Committing assembly 'D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.InstallLog
+   assemblypath = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe
+Uninstalling assembly 'D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.InstallLog
+   assemblypath = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe
+Removing EventLog source A_RFID_BIG_READER_IN.
+Service A_RFID_BIG_READER_IN is being removed from the system...
+Service A_RFID_BIG_READER_IN was successfully removed from the system.
+Installing assembly 'D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.InstallLog
+   assemblypath = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe
+Installing service A_RFID_BIG_READER_IN...
+Service A_RFID_BIG_READER_IN has been successfully installed.
+Creating EventLog source A_RFID_BIG_READER_IN in log Application...
+Committing assembly 'D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.InstallLog
+   assemblypath = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe
+Uninstalling assembly 'D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.InstallLog
+   assemblypath = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe
+Removing EventLog source A_RFID_BIG_READER_IN.
+Service A_RFID_BIG_READER_IN is being removed from the system...
+Service A_RFID_BIG_READER_IN was successfully removed from the system.
+Installing assembly 'D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.InstallLog
+   assemblypath = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe
+Installing service A_RFID_BIG_READER_IN...
+Service A_RFID_BIG_READER_IN has been successfully installed.
+Creating EventLog source A_RFID_BIG_READER_IN in log Application...
+Committing assembly 'D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.InstallLog
+   assemblypath = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe
+Uninstalling assembly 'D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.InstallLog
+   assemblypath = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe
+Removing EventLog source A_RFID_BIG_READER_IN.
+Service A_RFID_BIG_READER_IN is being removed from the system...
+Service A_RFID_BIG_READER_IN was successfully removed from the system.
+Installing assembly 'D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.InstallLog
+   assemblypath = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe
+Installing service A_RFID_BIG_READER_IN...
+Service A_RFID_BIG_READER_IN has been successfully installed.
+Creating EventLog source A_RFID_BIG_READER_IN in log Application...
+Committing assembly 'D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.InstallLog
+   assemblypath = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe
+Uninstalling assembly 'D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.InstallLog
+   assemblypath = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe
+Removing EventLog source A_RFID_BIG_READER_IN.
+Service A_RFID_BIG_READER_IN is being removed from the system...
+Service A_RFID_BIG_READER_IN was successfully removed from the system.
+Installing assembly 'D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.InstallLog
+   assemblypath = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe
+Installing service A_RFID_BIG_READER_IN...
+Service A_RFID_BIG_READER_IN has been successfully installed.
+Creating EventLog source A_RFID_BIG_READER_IN in log Application...
+Committing assembly 'D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.InstallLog
+   assemblypath = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe
+Uninstalling assembly 'D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.InstallLog
+   assemblypath = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe
+Removing EventLog source A_RFID_BIG_READER_IN.
+Service A_RFID_BIG_READER_IN is being removed from the system...
+Service A_RFID_BIG_READER_IN was successfully removed from the system.
+Installing assembly 'D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.InstallLog
+   assemblypath = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe
+Installing service A_RFID_BIG_READER_IN...
+Service A_RFID_BIG_READER_IN has been successfully installed.
+Creating EventLog source A_RFID_BIG_READER_IN in log Application...
+Committing assembly 'D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.InstallLog
+   assemblypath = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe
+Uninstalling assembly 'D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.InstallLog
+   assemblypath = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe
+Removing EventLog source A_RFID_BIG_READER_IN.
+Service A_RFID_BIG_READER_IN is being removed from the system...
+Service A_RFID_BIG_READER_IN was successfully removed from the system.
+Installing assembly 'D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.InstallLog
+   assemblypath = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe
+Installing service A_RFID_BIG_READER_IN...
+Service A_RFID_BIG_READER_IN has been successfully installed.
+Creating EventLog source A_RFID_BIG_READER_IN in log Application...
+Committing assembly 'D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.InstallLog
+   assemblypath = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe
+Uninstalling assembly 'D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.InstallLog
+   assemblypath = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe
+Removing EventLog source A_RFID_BIG_READER_IN.
+Service A_RFID_BIG_READER_IN is being removed from the system...
+Service A_RFID_BIG_READER_IN was successfully removed from the system.
+Installing assembly 'D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.InstallLog
+   assemblypath = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe
+Installing service A_RFID_BIG_READER_IN...
+Service A_RFID_BIG_READER_IN has been successfully installed.
+Creating EventLog source A_RFID_BIG_READER_IN in log Application...
+Committing assembly 'D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.InstallLog
+   assemblypath = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe
+Uninstalling assembly 'D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.InstallLog
+   assemblypath = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe
+Removing EventLog source A_RFID_BIG_READER_IN.
+Service A_RFID_BIG_READER_IN is being removed from the system...
+Service A_RFID_BIG_READER_IN was successfully removed from the system.
+Installing assembly 'D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.InstallLog
+   assemblypath = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe
+Installing service A_RFID_BIG_READER_IN...
+Service A_RFID_BIG_READER_IN has been successfully installed.
+Creating EventLog source A_RFID_BIG_READER_IN in log Application...
+Committing assembly 'D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.InstallLog
+   assemblypath = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe
+Uninstalling assembly 'D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.InstallLog
+   assemblypath = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe
+Removing EventLog source A_RFID_BIG_READER_IN.
+Service A_RFID_BIG_READER_IN is being removed from the system...
+Service A_RFID_BIG_READER_IN was successfully removed from the system.
+Installing assembly 'D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.InstallLog
+   assemblypath = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe
+Installing service A_RFID_BIG_READER_IN...
+Service A_RFID_BIG_READER_IN has been successfully installed.
+Creating EventLog source A_RFID_BIG_READER_IN in log Application...
+Committing assembly 'D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.InstallLog
+   assemblypath = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe
+Uninstalling assembly 'D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.InstallLog
+   assemblypath = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe
+Removing EventLog source A_RFID_BIG_READER_IN.
+Service A_RFID_BIG_READER_IN is being removed from the system...
+Service A_RFID_BIG_READER_IN was successfully removed from the system.
+Installing assembly 'D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.InstallLog
+   assemblypath = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe
+Installing service A_RFID_BIG_READER_IN...
+Service A_RFID_BIG_READER_IN has been successfully installed.
+Creating EventLog source A_RFID_BIG_READER_IN in log Application...
+Committing assembly 'D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.InstallLog
+   assemblypath = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe
+Uninstalling assembly 'D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.InstallLog
+   assemblypath = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe
+Removing EventLog source A_RFID_BIG_READER_IN.
+Service A_RFID_BIG_READER_IN is being removed from the system...
+Service A_RFID_BIG_READER_IN was successfully removed from the system.
+Installing assembly 'D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.InstallLog
+   assemblypath = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe
+Installing service A_RFID_BIG_READER_IN...
+Service A_RFID_BIG_READER_IN has been successfully installed.
+Creating EventLog source A_RFID_BIG_READER_IN in log Application...
+Committing assembly 'D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.InstallLog
+   assemblypath = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe
+Uninstalling assembly 'D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.InstallLog
+   assemblypath = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe
+Removing EventLog source A_RFID_BIG_READER_IN.
+Service A_RFID_BIG_READER_IN is being removed from the system...
+Service A_RFID_BIG_READER_IN was successfully removed from the system.
+Uninstalling assembly 'D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.InstallLog
+   assemblypath = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe
+Removing EventLog source A_RFID_BIG_READER_IN.
+Warning: The source A_RFID_BIG_READER_IN is not registered on the local machine.
+Service A_RFID_BIG_READER_IN is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.InstallLog
+   assemblypath = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe
+Installing service A_RFID_BIG_READER_IN...
+Service A_RFID_BIG_READER_IN has been successfully installed.
+Creating EventLog source A_RFID_BIG_READER_IN in log Application...
+Committing assembly 'D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.InstallLog
+   assemblypath = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe
+Uninstalling assembly 'D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.InstallLog
+   assemblypath = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe
+Removing EventLog source A_RFID_BIG_READER_IN.
+Service A_RFID_BIG_READER_IN is being removed from the system...
+Service A_RFID_BIG_READER_IN was successfully removed from the system.
+Installing assembly 'D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.InstallLog
+   assemblypath = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe
+Installing service A_RFID_BIG_READER_IN...
+Service A_RFID_BIG_READER_IN has been successfully installed.
+Creating EventLog source A_RFID_BIG_READER_IN in log Application...
+Committing assembly 'D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.InstallLog
+   assemblypath = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe
+Uninstalling assembly 'D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.InstallLog
+   assemblypath = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe
+Removing EventLog source A_RFID_BIG_READER_IN.
+Service A_RFID_BIG_READER_IN is being removed from the system...
+Service A_RFID_BIG_READER_IN was successfully removed from the system.
+Installing assembly 'D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.InstallLog
+   assemblypath = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe
+Installing service A_RFID_BIG_READER_IN...
+Service A_RFID_BIG_READER_IN has been successfully installed.
+Creating EventLog source A_RFID_BIG_READER_IN in log Application...
+Committing assembly 'D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.InstallLog
+   assemblypath = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe
+Uninstalling assembly 'D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.InstallLog
+   assemblypath = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe
+Removing EventLog source A_RFID_BIG_READER_IN.
+Service A_RFID_BIG_READER_IN is being removed from the system...
+Service A_RFID_BIG_READER_IN was successfully removed from the system.
+Installing assembly 'D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.InstallLog
+   assemblypath = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe
+Installing service A_RFID_BIG_READER_IN...
+Service A_RFID_BIG_READER_IN has been successfully installed.
+Creating EventLog source A_RFID_BIG_READER_IN in log Application...
+Committing assembly 'D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.InstallLog
+   assemblypath = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe
+Uninstalling assembly 'D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.InstallLog
+   assemblypath = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe
+Removing EventLog source A_RFID_BIG_READER_IN.
+Service A_RFID_BIG_READER_IN is being removed from the system...
+Service A_RFID_BIG_READER_IN was successfully removed from the system.
+Installing assembly 'D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.InstallLog
+   assemblypath = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe
+Installing service A_RFID_BIG_READER_IN...
+Service A_RFID_BIG_READER_IN has been successfully installed.
+Creating EventLog source A_RFID_BIG_READER_IN in log Application...
+Committing assembly 'D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.InstallLog
+   assemblypath = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe
+Uninstalling assembly 'D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.InstallLog
+   assemblypath = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe
+Removing EventLog source A_RFID_BIG_READER_IN.
+Service A_RFID_BIG_READER_IN is being removed from the system...
+Service A_RFID_BIG_READER_IN was successfully removed from the system.
+Installing assembly 'D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.InstallLog
+   assemblypath = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe
+Installing service A_RFID_BIG_READER_IN...
+Service A_RFID_BIG_READER_IN has been successfully installed.
+Creating EventLog source A_RFID_BIG_READER_IN in log Application...
+Committing assembly 'D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.InstallLog
+   assemblypath = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe
+Uninstalling assembly 'D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.InstallLog
+   assemblypath = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe
+Removing EventLog source A_RFID_BIG_READER_IN.
+Service A_RFID_BIG_READER_IN is being removed from the system...
+Service A_RFID_BIG_READER_IN was successfully removed from the system.
+Installing assembly 'D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.InstallLog
+   assemblypath = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe
+Installing service A_RFID_BIG_READER_IN...
+Service A_RFID_BIG_READER_IN has been successfully installed.
+Creating EventLog source A_RFID_BIG_READER_IN in log Application...
+Committing assembly 'D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.InstallLog
+   assemblypath = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe
+Uninstalling assembly 'D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.InstallLog
+   assemblypath = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe
+Removing EventLog source A_RFID_BIG_READER_IN.
+Service A_RFID_BIG_READER_IN is being removed from the system...
+Service A_RFID_BIG_READER_IN was successfully removed from the system.
+Installing assembly 'D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.InstallLog
+   assemblypath = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe
+Installing service A_RFID_BIG_READER_IN...
+Service A_RFID_BIG_READER_IN has been successfully installed.
+Creating EventLog source A_RFID_BIG_READER_IN in log Application...
+Committing assembly 'D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.InstallLog
+   assemblypath = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe
+Uninstalling assembly 'D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.InstallLog
+   assemblypath = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe
+Removing EventLog source A_RFID_BIG_READER_IN.
+Service A_RFID_BIG_READER_IN is being removed from the system...
+Service A_RFID_BIG_READER_IN was successfully removed from the system.
+Installing assembly 'D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.InstallLog
+   assemblypath = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe
+Installing service A_RFID_BIG_READER_IN...
+Service A_RFID_BIG_READER_IN has been successfully installed.
+Creating EventLog source A_RFID_BIG_READER_IN in log Application...
+Committing assembly 'D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.InstallLog
+   assemblypath = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe
+Uninstalling assembly 'D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.InstallLog
+   assemblypath = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe
+Removing EventLog source A_RFID_BIG_READER_IN.
+Service A_RFID_BIG_READER_IN is being removed from the system...
+Service A_RFID_BIG_READER_IN was successfully removed from the system.
+Installing assembly 'D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.InstallLog
+   assemblypath = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe
+Installing service A_RFID_BIG_READER_IN...
+Service A_RFID_BIG_READER_IN has been successfully installed.
+Creating EventLog source A_RFID_BIG_READER_IN in log Application...
+Committing assembly 'D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.InstallLog
+   assemblypath = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe
+Uninstalling assembly 'D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.InstallLog
+   assemblypath = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe
+Removing EventLog source A_RFID_BIG_READER_IN.
+Service A_RFID_BIG_READER_IN is being removed from the system...
+Service A_RFID_BIG_READER_IN was successfully removed from the system.
+Installing assembly 'D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.InstallLog
+   assemblypath = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe
+Installing service A_RFID_BIG_READER_IN...
+Service A_RFID_BIG_READER_IN has been successfully installed.
+Creating EventLog source A_RFID_BIG_READER_IN in log Application...
+Committing assembly 'D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.InstallLog
+   assemblypath = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe
+Uninstalling assembly 'D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.InstallLog
+   assemblypath = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe
+Removing EventLog source A_RFID_BIG_READER_IN.
+Service A_RFID_BIG_READER_IN is being removed from the system...
+Service A_RFID_BIG_READER_IN was successfully removed from the system.
+Installing assembly 'D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.InstallLog
+   assemblypath = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe
+Installing service A_RFID_BIG_READER_IN...
+Service A_RFID_BIG_READER_IN has been successfully installed.
+Creating EventLog source A_RFID_BIG_READER_IN in log Application...
+Committing assembly 'D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.InstallLog
+   assemblypath = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe
+Installing assembly 'D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.InstallLog
+   assemblypath = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe
+Installing service A_RFID_BIG_READER_IN...
+Creating EventLog source A_RFID_BIG_READER_IN in log Application...
+Rolling back assembly 'D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.InstallLog
+   assemblypath = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe
+Restoring event log to previous state for source A_RFID_BIG_READER_IN.
+Uninstalling assembly 'D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.InstallLog
+   assemblypath = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe
+Removing EventLog source A_RFID_BIG_READER_IN.
+Service A_RFID_BIG_READER_IN is being removed from the system...
+Service A_RFID_BIG_READER_IN was successfully removed from the system.
+Installing assembly 'D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.InstallLog
+   assemblypath = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe
+Installing service A_RFID_BIG_READER_IN...
+Service A_RFID_BIG_READER_IN has been successfully installed.
+Creating EventLog source A_RFID_BIG_READER_IN in log Application...
+Committing assembly 'D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.InstallLog
+   assemblypath = D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\x86\Release\Service_RFID_BIG_READER.exe

@@ -1,0 +1,16 @@
+D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\Release\Service_RFID_BIG_READER.exe.config
+D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\Release\Service_RFID_BIG_READER.exe
+D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\Release\Service_RFID_BIG_READER.pdb
+D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\Release\MQTTnet.dll
+D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\Release\System.Diagnostics.DiagnosticSource.dll
+D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\Release\MQTTnet.xml
+D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\Release\System.Diagnostics.DiagnosticSource.xml
+D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\obj\Release\Service_RFID_BIG_READER.csproj.AssemblyReference.cache
+D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\obj\Release\Service_RFID_BIG_READER.csproj.SuggestedBindingRedirects.cache
+D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\obj\Release\Service_RFID_BIG_READER.ProjectInstaller.resources
+D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\obj\Release\Service_RFID_BIG_READER.csproj.GenerateResource.cache
+D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\obj\Release\Service_RFID_BIG_READER.csproj.CoreCompileInputs.cache
+D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\obj\Release\Service_RFID_BIG_READER.csproj.CopyComplete
+D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\obj\Release\Service_RFID_BIG_READER.exe
+D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\obj\Release\Service_RFID_BIG_READER.pdb
+D:\workspaces\t4tek\2024\Pub_Sub_Mqtt\AppWinform\Service_RFID_BIG_READER\bin\Release\Reader_DLL\SYC_R16_DLLProject_x64.dll
